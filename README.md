@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Anuradha Godakanda
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python,Java
-- 📫 anugppro@gmail.com
+<style>
+ h1{
+  font-size:16px;
+  color:red;
+  }
+</style>
+<h1>Hi! I'm Anuradha Godakanda</h1>
 
 <!---
 AnuradhaGP/AnuradhaGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
