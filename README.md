@@ -1,6 +1,6 @@
 <style>
  h1{
-  font-size:16px;
+  font-size:10px;
   color:red;
   }
 </style>
